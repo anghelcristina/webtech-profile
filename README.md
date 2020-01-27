@@ -16,3 +16,4 @@ XMLHttpRequest clasa pt lucrul cu http: var request = new..
         };
         ourRequest.open('get', 'product.json', true);
         ourRequest.send();
+De pe la express.js https://expressjs.com/en/4x/api.html
