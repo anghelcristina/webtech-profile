@@ -17,5 +17,6 @@ XMLHttpRequest clasa pt lucrul cu http: var request = new..<br/>
         ourRequest.open('get', 'product.json', true);
         ourRequest.send();<br/>
 De pe la express.js https://expressjs.com/en/4x/api.html<br/>
-http://expressjs.com/en/5x/api.html#req.body cu body parser
-https://nodejs.org/en/docs/ nodejs site
+http://expressjs.com/en/5x/api.html#req.body cu body parser<br/>
+https://nodejs.org/en/docs/ nodejs site<br/>
+https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/ fetch <br/>
